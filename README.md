@@ -1,4 +1,4 @@
-需要引入jQuery  
+需要引入jQuery或者Zepto
 分享的节点需要设置data-share属性
 # data-share属性值:    
     qzone                   QQ空间
